@@ -1,0 +1,9 @@
+
+
+User_Setup.h  é o arquivo que configura as libs das telas.
+
+User_Setup_Select.h é o arquivo de imports/modularização para o diretório User_Setups
+
+dentro de User_Setups existem os arquivos de esquema das pinagens.
+
+examples são os sketchs
